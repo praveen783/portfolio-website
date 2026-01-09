@@ -38,7 +38,7 @@ git clone https://github.com/praveen783/portfolio-website.git
 
 OR double-click index.html
 ---
-🚀 Deployment
+## 🚀 Deployment
 
 🌍 This portfolio website is deployed using GitHub Pages.
 
@@ -58,7 +58,7 @@ OR double-click index.html
 🔗 https://praveen783.github.io/portfolio-website/
 
 ---
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 💡 This project was built as part of my learning journey in HTML and Web Development.
 
