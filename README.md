@@ -29,7 +29,6 @@ It showcases my projects, shares information about me, and provides a way to con
 ## 🚀 How to Run Locally
 
 1️⃣ Clone the repository  
-```bash
 git clone https://github.com/praveen783/portfolio-website.git
 2️⃣ Open the folder in VS Code
 
@@ -39,24 +38,34 @@ git clone https://github.com/praveen783/portfolio-website.git
 
 OR double-click index.html
 ---
+🚀 Deployment
 
-🌍 Deployment (GitHub Pages)
+🌍 This portfolio website is deployed using GitHub Pages.
 
-🚀 This website is deployed using GitHub Pages
+🛠 Deployment Steps
 
-Steps:
+1️⃣ Push the project code to the main branch
+2️⃣ Go to Repository → Settings → Pages
+3️⃣ Under Source, select:
 
-1️⃣ Push code to main branch
-2️⃣ Go to Settings → Pages
-3️⃣ Select:
+📌 Branch: main
 
-Branch: main
+📌 Folder: /root
+4️⃣ Click Save
 
-Folder: /root
-4️⃣ Save & visit your live site 🎉
+🎉 Your website will be live at:
+
+🔗 https://praveen783.github.io/portfolio-website/
 
 ---
+🙏 Acknowledgements
 
-⭐ Acknowledgements
+💡 This project was built as part of my learning journey in HTML and Web Development.
 
-🙏 This project was created as part of my web development learning journey.
+🌟 This project helped me understand:
+
+. Folder structure for web projects
+
+. Relative vs absolute paths
+
+. Hosting static websites on GitHub Pages
